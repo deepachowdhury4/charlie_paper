@@ -1,0 +1,8 @@
+Day,Daily Hours Remaining for Meal Prep,Daily Calories Lost,Daily Hours Sleeping,Daily Activities,Daily Duration of Activities,Start of Activities in List,End of Activities in List
+1,10.0,1943.6668,11.5,"['Kayaking', 'Swimming leisurely, not laps', 'Driving']","[0.5, 1.0, 1.0]","['15:00:00', '15:30:00', '18:00:00']","['15:30:00', '16:30:00', '19:00:00']"
+2,13.5,1772.463,8.0,"['Resting, No activity, Sitting, Standing', 'None', 'Playing with animals']","[4.0, 1.0, 2.0]","['08:00:00', '12:00:00', '13:30:00']","['12:00:00', '13:00:00', '15:30:00']"
+3,8.5,1796.9207,8.5,"['Shopping', 'None', 'Stretching, hatha yoga', 'Jazzercise']","[3.5, 0.5, 0.5, 1.0]","['08:00:00', '11:45:00', '12:30:00', '15:00:00']","['11:30:00', '12:15:00', '13:00:00', '16:00:00']"
+4,6.5,1968.1245,12.0,"['None', 'Sitting', 'Cycling (&lt;10 mph), leisure biking']","[1.0, 4.0, 1.0]","['11:45:00', '13:00:00', '18:30:00']","['12:45:00', '17:00:00', '19:30:00']"
+5,8.0,1870.2938,10.0,"['None', 'Walking 2.5 mph']","[1.0, 0.75]","['11:30:00', '13:30:00']","['12:30:00', '14:15:00']"
+6,13.25,1821.3784,9.0,"['Sitting', 'Sitting']","[4.0, 4.0]","['08:00:00', '13:00:00']","['12:00:00', '17:00:00']"
+7,8.0,1772.463,8.0,['Sitting'],[2.5],['12:00:00'],['14:30:00']
